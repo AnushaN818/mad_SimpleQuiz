@@ -9,7 +9,9 @@ public class AllQuestions {
             new Question(R.string.q_start,true),
             new Question(R.string.q_continent, true),
             new Question(R.string.q_oceans, false),
-            new Question(R.string.q_add3_4, true)
+            new Question(R.string.q_add3_4, true),
+            new Question(R.string.q_multi7_8, false),
+            new Question(R.string.q_octopus, false)
     };
 
     public AllQuestions() {currentQuestion = 0;}

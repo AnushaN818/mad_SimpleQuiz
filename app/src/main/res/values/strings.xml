@@ -14,6 +14,8 @@
     <string name="q_continent">There are 7 continents</string>
     <string name="q_oceans">There are 9 oceans</string>
     <string name="q_add3_4">3+4 is 7</string>
+    <string name ="q_multi7_8">7*8 is 48</string>
+    <string name ="q_octopus">An octopus has 4 hearts</string>
     <string name="initial_score">0</string>
     <string name="title_activity_summary">SummaryActivity</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.example.lab_2.controller;
+ package com.example.lab_2.controller;
 
 import com.example.lab_2.model.AllQuestions;
 
